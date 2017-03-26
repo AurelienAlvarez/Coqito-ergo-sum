@@ -1,4 +1,4 @@
-# coqito-ergo-sum
+# Coqito ergo sum
 
 À l'aide de l'assistant de preuves [Coq](https://coq.inria.fr), on donne une démonstration certifiée de l'énigme des chapeaux présentée dans l'article [Coqito ergo sum](http://images.math.cnrs.fr/Coqito-ergo-sum) publié sur Images des maths. On pourra également lire l'article [Un jeu vidéo pour adultes et une thématique HoTT](http://www.univ-orleans.fr/mapmo/membres/alvarez/dist/src/app/pdf/ALVAREZ_jeu-video-adultes-thematique-HoTT_Quadrature_2017.pdf) paru dans Quadrature en 2017.
 
